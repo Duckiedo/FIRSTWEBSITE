@@ -1,0 +1,66 @@
+<div id="header"></div>
+<div class="left"></div>
+<div class="stuff">
+  <br><br>
+  <h1>Resume 2024</h1>
+  <h2>Nicholas</h2>
+  <img 
+    src="Default.PNG"
+    alt="Default" 
+    width="200"
+    height="300" />
+    <img 
+    src="D7.PNG"
+    alt="Default" 
+    width="200"
+    height="300" />
+    <img 
+    src="D4.PNG"
+    alt="Default" 
+    width="200"
+    height="300" />
+    <img 
+    src="D5.PNG"
+    alt="Default" 
+    width="200"
+    height="300" />
+    <img 
+    src="D6.PNG"
+    alt="Default" 
+    width="200"
+    height="300" />
+    <img 
+    src="D8.PNG"
+    alt="Default" 
+    width="200"
+    height="300" />
+  <hr />
+  <br>
+  <p class="head">Interests</p>
+  <ul>
+    <li>Biking</li>
+    <li>Computers</li>
+    <li>Cars</li>
+    <li>Nature</li>
+    <li>Working Out</li>
+    <li>Music</li>
+  </ul>
+  <p class="head">Skills</p>
+  <ul>
+    <li>Web Design with HTML & CSS</li>
+    <li>AI application using Next.JS, TypeScript, and TailwindCSS</li>
+  </ul>
+  <p class="head">Education</p>
+  <ul>
+      <li>Ramsey High School</li>
+    </a>
+  </ul>
+  <p class="head">Experience</p>
+  <ul>
+    <li>CVS Store Associate</li>
+  </ul>
+  <hr />
+</div>
+<div class="right"></div>
+<div id="footer">
+  <h2 id="name">Nicholas</h2></div>
